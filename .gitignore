@@ -10,6 +10,7 @@ __pycache__/
 venv/
 
 # uv
+.venv
 .venv/
 
 # Session files and secrets
