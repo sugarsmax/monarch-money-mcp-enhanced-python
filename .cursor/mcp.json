@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "monarch-money": {
+      "url": "https://api.monarch.com/mcp"
+    }
+  }
+}

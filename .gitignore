@@ -13,6 +13,13 @@ venv/
 .venv
 .venv/
 
+# Local duplicate-study exports (financial data)
+scripts/duplicate_study/data/*.json
+scripts/duplicate_study/data/*.csv
+scripts/duplicate_study/data/mcp_inbox/*
+!scripts/duplicate_study/data/.gitkeep
+!scripts/duplicate_study/data/mcp_inbox/.gitkeep
+
 # Session files and secrets
 .monarchmoney_session
 .mm/
